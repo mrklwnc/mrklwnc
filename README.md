@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Lewence Endrano</h1>
-<h3 align="center">A full-stack web developer with a passion and drive to engage in the IT industry. Knowledgeable in developing websites, and eager to learn new abilities and improve my skills to contribute to a team and an organization.</h3>
+<h3 align="center">An aspiring full-stack web developer with a passion and drive to engage in the IT industry. Knowledgeable in developing websites, and eager to learn new abilities and improve my skills to contribute to a team and an organization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrklwnc&label=Profile%20views&color=0e75b6&style=flat" alt="mrklwnc" /> </p>
 
