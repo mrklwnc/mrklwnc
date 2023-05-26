@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Geopro Global Solutions Inc. Website](https://github.com/mrklwnc/geopro-website)
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently learning **Laravel Framework, React JS, and Next JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrklwnc](https://github.com/mrklwnc)
 
