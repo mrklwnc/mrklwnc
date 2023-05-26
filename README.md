@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrklwnc&label=Profile%20views&color=0e75b6&style=flat" alt="mrklwnc" /> </p>
 
-- 🔭 I’m currently working on [Kyoo: Queueing Management System](https://github.com/rnldvrgl/Kyoo)
+- 🔭 I’m currently working on [Geopro Global Solutions Inc. Website](https://github.com/mrklwnc/geopro-website)
 
 - 🌱 I’m currently learning **Laravel Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrklwnc](https://github.com/mrklwnc)
 
-- 📫 How to reach me **endranomarklewence@gmail.com**
+- 📫 How to reach me **endranomarklewence03@gmail.com**
 
-- ⚡ Fun fact **I don't have any creative juices in my body, therefore I find happiness in back-end.**
+- ⚡ Fun fact **I aspire to become a strong full stack web developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
