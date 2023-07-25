@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **endranomarklewence03@gmail.com**
 
-- ⚡ Fun fact **I aspire to become a strong full stack web developer.**
+- ⚡ Fun fact **I aspire to become a full stack web developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
