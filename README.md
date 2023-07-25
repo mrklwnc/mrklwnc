@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrklwnc&label=Profile%20views&color=0e75b6&style=flat" alt="mrklwnc" /> </p>
 
-- 🔭 I’m currently working at [Geopro Global Solutions Inc.](https://github.com/mrklwnc/geopro-website](https://www.linkedin.com/company/geopro-global-solutions-inc/mycompany/)
+- 🔭 I’m currently working at Geopro Global Solutions Inc.
 
 - 🌱 I’m currently learning **Laravel Framework, React JS, and Next JS**
 
