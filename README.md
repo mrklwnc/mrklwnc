@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working at Geopro Global Solutions Inc.
 
-- 🌱 I’m currently learning **Laravel Framework, React JS, and Next JS**
+- 🌱 I’m currently learning **React JS, and Next JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrklwnc](https://github.com/mrklwnc)
 
 - 📫 How to reach me **endranomarklewence03@gmail.com**
 
-- ⚡ Fun fact **I aspire to become a full stack web developer.**
+- ⚡ Fun fact **I play League of Legends, VALORANT, Apex Legends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
