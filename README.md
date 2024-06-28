@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/hilth"><img src="https://api.daily.dev/devcards/v2/muDPeT2MfERKATmasGvw8.png?type=wide&r=bas" width="652" alt="Mark Lewence Endrano's Dev Card"/></a>
+<div align="center"><a href="https://app.daily.dev/hilth"><img src="https://api.daily.dev/devcards/v2/muDPeT2MfERKATmasGvw8.png?type=wide&r=bas" width="652" alt="Mark Lewence Endrano's Dev Card"/></a></div>
 
 <h1 align="center">Hi 👋, I'm Mark Lewence Endrano</h1>
 <h3 align="center">An aspiring full-stack web developer with a passion and drive to engage in the IT industry. Knowledgeable in developing websites, and eager to learn new abilities and improve my skills to contribute to a team and an organization.</h3>
