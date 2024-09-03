@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mark Lewence Endrano</h1>
-<h3 align="center">An aspiring full-stack web developer with a passion and drive to engage in the IT industry. Knowledgeable in developing websites, and eager to learn new abilities and improve my skills to contribute to a team and an organization.</h3>
+<h3 align="center">A full-stack developer with a habit of creating multiple unfinished projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrklwnc&label=Profile%20views&color=0e75b6&style=flat" alt="mrklwnc" /> </p>
 
 - 🔭 I’m currently working at Geopro Global Solutions Inc.
 
-- 🌱 I’m currently learning **React JS, and Next JS**
+- 🌱 I’m currently learning **React, NextJS, Python, and Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrklwnc](https://github.com/mrklwnc)
 
 - 📫 How to reach me **endranomarklewence03@gmail.com**
 
-- ⚡ Fun fact **I play League of Legends, VALORANT, Apex Legends**
+- ⚡ Fun fact **I play League of Legends, VALORANT, Apex Legends, and recently, Minecraft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
